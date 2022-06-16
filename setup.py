@@ -8,7 +8,7 @@ setup(
     author_email='byntje@example.com',
     packages=find_packages('a_package'),
     package_dir={'': 'a_package'},
-    url='https://github.com/gmyrianthous/example-publish-pypi',
+    url='https://github.com/binnev/test202206161037',
     keywords='Test project',
     install_requires=[
         "django>=2.2",
