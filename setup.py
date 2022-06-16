@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='test202206161037',
-    version='0.1',
+    version='0.2',
     license='Apache',
     author="Robin Neville",
     author_email='byntje@example.com',
